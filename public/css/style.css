@@ -8,7 +8,7 @@ html,body{
 margin:0;
 padding:0;
 font-family: 'Inconsolata';
-background: #272822 url(../images/if.png) right bottom no-repeat;
+background: #272822 url(../images/if.png) center center no-repeat;
 height: 100%;
 width: 100%;
 }
