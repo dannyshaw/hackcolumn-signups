@@ -39,8 +39,11 @@ float: left;
 }
 
 .footer {
-	margin-top: 100px;
 	text-align: center;
+}
+
+.footer img {
+	margin-top: 50px;
 }
 
 
@@ -112,6 +115,11 @@ margin-bottom: 15px;
 }
 
 @media only screen and (max-device-width: 420px)  {
+
+	.header {
+		margin-top: 80px;
+	}
+
 	.information{
 		width: 100%;
 	}
