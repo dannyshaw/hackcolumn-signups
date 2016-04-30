@@ -8,7 +8,7 @@ html,body{
 margin:0;
 padding:0;
 font-family: 'Inconsolata';
-background: #272822 url(../images/if.png) center center no-repeat;
+background: #272822;
 height: 100%;
 width: 100%;
 }
@@ -36,6 +36,11 @@ float: left;
 .header{
 	margin-top: 120px;
 	margin-bottom: 40px;
+}
+
+.footer {
+	margin-top: 100px;
+	text-align: center;
 }
 
 
